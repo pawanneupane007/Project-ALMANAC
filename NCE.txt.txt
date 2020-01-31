@@ -1,3 +1,16 @@
 <html>
 	This is Git workshop
 </html>
+
+
+git add
+git commit
+git push
+
+git status
+
+git branch 
+git branch dev
+git branch
+git branch checkout dev
+git branch
