@@ -1,4 +1,0 @@
-<html>
-	This is Git workshop
-	ok why not?
-</html>
